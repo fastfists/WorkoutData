@@ -1,0 +1,357 @@
+Date,Workout Name,Exercise Name,Set Order,Weight,Weight Unit,Reps,RPE,Distance,Distance Unit,Seconds,Notes,Workout Notes,Workout Duration
+2021-11-29 14:12:16,Bicep Day,Bicep Curl (Barbell),1,20,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Bicep Curl (Barbell),2,30,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Bicep Curl (Barbell),3,32.5,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Bicep Curl (Barbell),4,35,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Bicep Curl (Barbell),5,32.5,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Reverse Curl (Barbell),1,20,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Reverse Curl (Barbell),2,25,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Reverse Curl (Barbell),3,30,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Reverse Curl (Barbell),4,30,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Hammer Curl (Dumbbell),1,17.5,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Hammer Curl (Dumbbell),2,17.5,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Hammer Curl (Dumbbell),3,17.5,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Hammer Curl (Dumbbell),4,17.5,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Incline Curl (Dumbbell),1,12.5,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Incline Curl (Dumbbell),2,12.5,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Incline Curl (Dumbbell),3,12.5,lbs,10,,,,0,,,33m
+2021-11-29 14:12:16,Bicep Day,Incline Curl (Dumbbell),4,15,lbs,10,,,,0,,,33m
+2021-11-30 14:02:25,Back,Iso-Lateral Row (Machine),1,50,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Iso-Lateral Row (Machine),2,90,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Iso-Lateral Row (Machine),3,110,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Iso-Lateral Row (Machine),4,90,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Pull Up (Assisted),1,50,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Pull Up (Assisted),2,60,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Pull Up (Assisted),3,60,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Pull Up (Assisted),4,80,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Lat Pulldown (Machine),1,90,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Lat Pulldown (Machine),2,90,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Lat Pulldown (Machine),3,90,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Lat Pulldown (Machine),4,70,lbs,12,,,,0,,,32m
+2021-11-30 14:02:25,Back,Face Pull (Cable),1,22.5,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Face Pull (Cable),2,32.5,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Face Pull (Cable),3,37.5,lbs,10,,,,0,,,32m
+2021-11-30 14:02:25,Back,Face Pull (Cable),4,32.5,lbs,10,,,,0,,,32m
+2021-12-01 14:13:27,Chest day,Incline Bench Press (Barbell),1,45,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Incline Bench Press (Barbell),2,105,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Incline Bench Press (Barbell),3,95,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Incline Bench Press (Barbell),4,75,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Incline Bench Press (Barbell),5,75,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Chest Dip (Assisted),1,80,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Chest Dip (Assisted),2,70,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Chest Dip (Assisted),3,60,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Chest Dip (Assisted),4,50,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Chest Fly,1,30,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Chest Fly,2,35,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Chest Fly,3,35,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Chest Fly,4,35,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Push Up,1,0,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Push Up,2,0,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Push Up,3,0,lbs,10,,,,0,,,39m
+2021-12-01 14:13:27,Chest day,Push Up,4,0,lbs,10,,,,0,,,39m
+2021-12-02 13:42:21,Triceps,Bench Press - Close Grip (Barbell),1,45,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Bench Press - Close Grip (Barbell),2,65,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Bench Press - Close Grip (Barbell),3,85,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Bench Press - Close Grip (Barbell),4,75,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Bench Press - Close Grip (Barbell),5,75,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Bench Press - Close Grip (Barbell),6,75,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Triceps Extension (Machine),1,40,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Triceps Extension (Machine),2,60,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Triceps Extension (Machine),3,70,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Triceps Extension (Machine),4,70,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Cable Kickback,1,7.5,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Cable Kickback,2,12.5,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Cable Kickback,3,7.5,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Cable Kickback,4,7.5,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Triceps Extension,1,17.5,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Triceps Extension,2,22.5,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Triceps Extension,3,22.5,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Triceps Extension,4,22.5,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Bicep Curl (Barbell),1,40,lbs,10,,,,0,Bar=20lbs skeptical on prev attempt,,35m
+2021-12-02 13:42:21,Triceps,Bicep Curl (Barbell),2,50,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Bicep Curl (Barbell),3,40,lbs,10,,,,0,,,35m
+2021-12-02 13:42:21,Triceps,Bicep Curl (Barbell),4,40,lbs,10,,,,0,,,35m
+2021-12-02 17:40:14,Legs,Squat (Barbell),1,45,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Squat (Barbell),2,95,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Squat (Barbell),3,115,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Squat (Barbell),4,115,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Squat (Barbell),5,135,lbs,5,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Squat (Barbell),6,135,lbs,5,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Squat (Barbell),7,135,lbs,5,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Squat (Barbell),8,135,lbs,5,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Squat (Barbell),9,135,lbs,7,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Crunch (Machine),1,80,lbs,20,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Crunch (Machine),2,125,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Crunch (Machine),3,110,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Crunch (Machine),4,110,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Seated Leg Curl (Machine),1,100,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Seated Leg Curl (Machine),2,100,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Seated Leg Curl (Machine),3,100,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Seated Leg Curl (Machine),4,100,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Leg Extension (Machine),1,70,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Leg Extension (Machine),2,100,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Leg Extension (Machine),3,115,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Leg Extension (Machine),4,115,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Seated Calf Raise (Machine),1,160,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Seated Calf Raise (Machine),2,190,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Seated Calf Raise (Machine),3,205,lbs,10,,,,0,,,1h 4m
+2021-12-02 17:40:14,Legs,Seated Calf Raise (Machine),4,205,lbs,10,,,,0,,,1h 4m
+2021-12-03 13:56:56,Shoulder Day,Overhead Press (Barbell),1,45,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Overhead Press (Barbell),2,65,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Overhead Press (Barbell),3,70,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Overhead Press (Barbell),4,65,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Overhead Press (Barbell),5,65,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Overhead Press (Barbell),6,45,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Lateral Raise (Dumbbell),1,7.5,lbs,15,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Lateral Raise (Dumbbell),2,7.5,lbs,15,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Lateral Raise (Dumbbell),3,7.5,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Lateral Raise (Dumbbell),4,7.5,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Reverse Fly (Dumbbell),1,5,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Reverse Fly (Dumbbell),2,5,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Reverse Fly (Dumbbell),3,5,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Reverse Fly (Dumbbell),4,5,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Shrug (Dumbbell),1,47.5,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Shrug (Dumbbell),2,47.5,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Shrug (Dumbbell),3,47.5,lbs,10,,,,0,,,36m
+2021-12-03 13:56:56,Shoulder Day,Shrug (Dumbbell),4,47.5,lbs,10,,,,0,,,36m
+2021-12-06 14:02:11,Bicep Day,Bicep Curl (Barbell),1,20,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Bicep Curl (Barbell),2,40,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Bicep Curl (Barbell),3,50,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Bicep Curl (Barbell),4,50,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Bicep Curl (Barbell),5,50,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Reverse Curl (Barbell),1,25,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Reverse Curl (Barbell),2,35,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Reverse Curl (Barbell),3,30,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Reverse Curl (Barbell),4,30,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Hammer Curl (Dumbbell),1,17.5,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Hammer Curl (Dumbbell),2,25,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Hammer Curl (Dumbbell),3,20,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Hammer Curl (Dumbbell),4,20,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Incline Curl (Dumbbell),1,12.5,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Incline Curl (Dumbbell),2,12.5,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Incline Curl (Dumbbell),3,15,lbs,10,,,,0,,,39m
+2021-12-06 14:02:11,Bicep Day,Incline Curl (Dumbbell),4,15,lbs,10,,,,0,,,39m
+2021-12-07 17:06:34,Chest day,Bench Press (Barbell),1,45,lbs,10,,,,0,1 was pause press,,1h 5m
+2021-12-07 17:06:34,Chest day,Bench Press (Barbell),2,95,lbs,10,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Bench Press (Barbell),3,115,lbs,9,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Bench Press (Barbell),4,115,lbs,9,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Bench Press (Barbell),5,115,lbs,9,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Bench Press (Barbell),6,115,lbs,11,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Bench Press (Barbell),7,135,lbs,3,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Chest Dip (Assisted),1,50,lbs,10,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Chest Dip (Assisted),2,40,lbs,10,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Chest Dip (Assisted),3,30,lbs,9,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Chest Dip (Assisted),4,30,lbs,9,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Chest Fly,1,30,lbs,10,,,,0,Low to high,,1h 5m
+2021-12-07 17:06:34,Chest day,Chest Fly,2,35,lbs,10,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Chest Fly,3,30,lbs,10,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Chest Fly,4,25,lbs,10,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Push Up,1,0,lbs,10,,,,0,,,1h 5m
+2021-12-07 17:06:34,Chest day,Push Up,2,0,lbs,10,,,,0,,,1h 5m
+2021-12-08 16:33:54,Back,Face Pull (Cable),1,25,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Face Pull (Cable),2,30,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Face Pull (Cable),3,35,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Face Pull (Cable),4,40,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Lat Pulldown - Wide Grip (Cable),1,55,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Lat Pulldown - Wide Grip (Cable),2,75,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Lat Pulldown - Wide Grip (Cable),3,75,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Lat Pulldown - Wide Grip (Cable),4,85,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Seated Row (Cable),1,85,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Seated Row (Cable),2,65,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Seated Row (Cable),3,75,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Seated Row (Cable),4,75,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Bent Over One Arm Row (Dumbbell),1,30,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Bent Over One Arm Row (Dumbbell),2,35,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Bent Over One Arm Row (Dumbbell),3,30,lbs,10,,,,0,,,39m
+2021-12-08 16:33:54,Back,Bent Over One Arm Row (Dumbbell),4,30,lbs,10,,,,0,,,39m
+2021-12-09 16:00:05,Legs,Squat (Barbell),1,45,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Squat (Barbell),2,95,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Squat (Barbell),3,115,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Squat (Barbell),4,115,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Squat (Barbell),5,115,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Squat (Barbell),6,115,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Romanian Deadlift (Barbell),1,35,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Romanian Deadlift (Barbell),2,50,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Romanian Deadlift (Barbell),3,50,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Romanian Deadlift (Barbell),4,50,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Hip Abductor (Machine),1,85,lbs,5,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Hip Abductor (Machine),2,70,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Hip Abductor (Machine),3,70,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Hip Adductor (Machine),1,70,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Hip Adductor (Machine),2,70,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Leg Extension (Machine),1,55,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Leg Extension (Machine),2,65,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Leg Extension (Machine),3,65,lbs,10,,,,0,,,41m
+2021-12-09 16:00:05,Legs,Leg Extension (Machine),4,65,lbs,10,,,,0,,,41m
+2021-12-10 18:00:00,Triceps,Bench Press - Close Grip (Barbell),1,45,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Bench Press - Close Grip (Barbell),2,95,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Bench Press - Close Grip (Barbell),3,110,lbs,5,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Bench Press - Close Grip (Barbell),4,95,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Bench Press - Close Grip (Barbell),5,95,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Bench Press - Close Grip (Barbell),6,95,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension (Machine),1,60,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension (Machine),2,80,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension (Machine),3,80,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension (Machine),4,80,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension (Dumbbell),1,30,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension (Dumbbell),2,35,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension (Dumbbell),3,30,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension (Dumbbell),4,30,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension,1,30,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension,2,25,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension,3,20,lbs,10,,,,0,,,1h
+2021-12-10 18:00:00,Triceps,Triceps Extension,4,20,lbs,10,,,,0,,,1h
+2021-12-11 12:27:32,Shoulder Day,Overhead Press (Barbell),1,45,lbs,10,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Overhead Press (Barbell),2,65,lbs,10,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Overhead Press (Barbell),3,75,lbs,10,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Overhead Press (Barbell),4,70,lbs,8,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Overhead Press (Barbell),5,65,lbs,10,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Lateral Raise (Dumbbell),1,7.5,lbs,20,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Lateral Raise (Dumbbell),2,7.5,lbs,20,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Lateral Raise (Dumbbell),3,7.5,lbs,15,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Lateral Raise (Dumbbell),4,7.5,lbs,15,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Reverse Fly (Dumbbell),1,5,lbs,10,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Reverse Fly (Dumbbell),2,5,lbs,10,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Reverse Fly (Dumbbell),3,5,lbs,15,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Reverse Fly (Dumbbell),4,5,lbs,15,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Shrug (Dumbbell),1,50,lbs,10,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Shrug (Dumbbell),2,50,lbs,10,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Shrug (Dumbbell),3,50,lbs,10,,,,0,,,40m
+2021-12-11 12:27:32,Shoulder Day,Shrug (Dumbbell),4,50,lbs,10,,,,0,,,40m
+2021-12-13 13:37:21,Bicep Day,Bicep Curl (Barbell),1,20,lbs,10,,,,0,Strict,,33m
+2021-12-13 13:37:21,Bicep Day,Bicep Curl (Barbell),2,40,lbs,12,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Bicep Curl (Barbell),3,40,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Bicep Curl (Barbell),4,50,lbs,8,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Bicep Curl (Barbell),5,40,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Reverse Curl (Barbell),1,30,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Reverse Curl (Barbell),2,30,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Reverse Curl (Barbell),3,30,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Reverse Curl (Barbell),4,30,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Hammer Curl (Dumbbell),1,17.5,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Hammer Curl (Dumbbell),2,17.5,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Hammer Curl (Dumbbell),3,17.5,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Hammer Curl (Dumbbell),4,17.5,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Incline Curl (Dumbbell),1,12.5,lbs,12,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Incline Curl (Dumbbell),2,12.5,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Incline Curl (Dumbbell),3,15,lbs,10,,,,0,,,33m
+2021-12-13 13:37:21,Bicep Day,Incline Curl (Dumbbell),4,15,lbs,10,,,,0,,,33m
+2021-12-14 16:07:58,Chest day,Incline Bench Press (Barbell),1,45,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Incline Bench Press (Barbell),2,115,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Incline Bench Press (Barbell),3,115,lbs,7,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Incline Bench Press (Barbell),4,105,lbs,6,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Incline Bench Press (Barbell),5,85,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Incline Bench Press (Barbell),6,105,lbs,6,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Chest Dip (Assisted),1,40,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Chest Dip (Assisted),2,35,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Chest Dip (Assisted),3,45,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Chest Dip (Assisted),4,50,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Chest Fly,1,30,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Chest Fly,2,25,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Push Up,1,0,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Push Up,2,0,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Push Up,3,0,lbs,10,,,,0,,,36m
+2021-12-14 16:07:58,Chest day,Push Up,4,0,lbs,11,,,,0,,,36m
+2021-12-15 22:55:35,Shoulder Day,Overhead Press (Barbell),1,45,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Overhead Press (Barbell),2,45,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Overhead Press (Barbell),3,65,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Overhead Press (Barbell),4,75,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Overhead Press (Barbell),5,85,lbs,6,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Overhead Press (Barbell),6,65,lbs,4,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Overhead Press (Barbell),7,65,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Seated rear delt raise,1,25,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Seated rear delt raise,2,25,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Seated rear delt raise,3,25,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Seated rear delt raise,4,25,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Seated rear delt raise,5,25,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Lateral Raise (Dumbbell),1,10,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Lateral Raise (Dumbbell),2,10,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Lateral Raise (Dumbbell),3,10,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Lateral Raise (Dumbbell),4,10,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Upright Row (Cable),1,15,lbs,10,,,,0,"Weird feeling on elbow joint, upper forearm",,50m
+2021-12-15 22:55:35,Shoulder Day,Upright Row (Cable),2,25,lbs,10,,,,0,,,50m
+2021-12-15 22:55:35,Shoulder Day,Upright Row (Cable),3,25,lbs,10,,,,0,,,50m
+2021-12-16 12:47:53,Legs,Lying Leg Curl (Machine),1,50,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Lying Leg Curl (Machine),2,75,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Lying Leg Curl (Machine),3,80,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Lying Leg Curl (Machine),4,70,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Lying Leg Curl (Machine),5,70,lbs,6,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Leg Extension (Machine),1,70,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Leg Extension (Machine),2,90,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Leg Extension (Machine),3,110,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Leg Extension (Machine),4,130,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Leg Extension (Machine),5,150,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Leg Extension (Machine),6,160,lbs,9,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Calf Press on Seated Leg Press,1,160,lbs,15,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Calf Press on Seated Leg Press,2,160,lbs,11,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Calf Press on Seated Leg Press,3,180,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Calf Press on Seated Leg Press,4,160,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Calf Press on Seated Leg Press,5,140,lbs,15,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Calf Press on Seated Leg Press,6,180,lbs,10,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Standing Calf Raise (Bodyweight),1,,,15,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Standing Calf Raise (Bodyweight),2,,,15,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Standing Calf Raise (Bodyweight),3,,,15,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Standing Calf Raise (Bodyweight),4,,,15,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Standing Calf Raise (Bodyweight),5,,,15,,,,0,,,26m
+2021-12-16 12:47:53,Legs,Standing Calf Raise (Bodyweight),6,,,15,,,,0,,,26m
+2021-12-18 00:20:08,Triceps home,Skullcrusher (Dumbbell),1,15,lbs,10,,,,0,,,13m
+2021-12-18 00:20:08,Triceps home,Skullcrusher (Dumbbell),2,25,lbs,10,,,,0,,,13m
+2021-12-18 00:20:08,Triceps home,Skullcrusher (Dumbbell),3,25,lbs,10,,,,0,,,13m
+2021-12-18 00:20:08,Triceps home,Triceps Extension (Dumbbell),1,30,lbs,10,,,,0,,,13m
+2021-12-18 00:20:08,Triceps home,Triceps Extension (Dumbbell),2,30,lbs,10,,,,0,,,13m
+2021-12-18 00:20:08,Triceps home,Triceps Extension (Dumbbell),3,30,lbs,10,,,,0,,,13m
+2021-12-18 00:20:08,Triceps home,Bench Dip,1,,,10,,,,0,,,13m
+2021-12-18 00:20:08,Triceps home,Bench Dip,2,,,10,,,,0,,,13m
+2021-12-18 00:20:08,Triceps home,Bench Dip,3,,,10,,,,0,,,13m
+2021-12-18 16:43:31,Triceps,Skullcrusher (Barbell),1,50,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Skullcrusher (Barbell),2,50,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Skullcrusher (Barbell),3,50,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Skullcrusher (Barbell),4,50,lbs,8,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Bench Press - Close Grip (Barbell),1,50,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Bench Press - Close Grip (Barbell),2,50,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Bench Press - Close Grip (Barbell),3,50,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Bench Press - Close Grip (Barbell),4,50,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Pushdown (Cable - Straight Bar),1,32.5,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Pushdown (Cable - Straight Bar),2,32.5,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Pushdown (Cable - Straight Bar),3,40,lbs,9,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Pushdown (Cable - Straight Bar),4,32.5,lbs,11,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Extension,1,15,lbs,15,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Extension,2,15,lbs,15,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Extension,3,15,lbs,15,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Extension,4,15,lbs,12,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Extension (Machine),1,50,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Extension (Machine),2,60,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Extension (Machine),3,50,lbs,10,,,,0,,,30m
+2021-12-18 16:43:31,Triceps,Triceps Extension (Machine),4,50,lbs,10,,,,0,,,30m
+2021-12-19 17:05:34,Bicep Day,Bicep Curl (Barbell),1,30,lbs,10,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Bicep Curl (Barbell),2,50,lbs,10,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Bicep Curl (Barbell),3,50,lbs,8,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Bicep Curl (Barbell),4,40,lbs,10,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Bicep Curl (Barbell),5,40,lbs,10,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Reverse Curl (Barbell),1,30,lbs,10,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Reverse Curl (Barbell),2,20,lbs,20,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Reverse Curl (Barbell),3,20,lbs,20,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Reverse Curl (Barbell),4,20,lbs,11,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Hammer Curl (Dumbbell),1,20,lbs,15,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Hammer Curl (Dumbbell),2,20,lbs,10,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Hammer Curl (Dumbbell),3,20,lbs,10,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Hammer Curl (Dumbbell),4,20,lbs,10,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Incline Curl (Dumbbell),1,10,lbs,20,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Incline Curl (Dumbbell),2,15,lbs,15,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Incline Curl (Dumbbell),3,15,lbs,10,,,,0,,,52m
+2021-12-19 17:05:34,Bicep Day,Incline Curl (Dumbbell),4,15,lbs,10,,,,0,,,52m
+2021-12-20 23:44:16,Back,Standing LAT pullover,1,47.5,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Standing LAT pullover,2,25,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Standing LAT pullover,3,25,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Standing LAT pullover,4,25,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Lat Pulldown - Wide Grip (Cable),1,60,lbs,20,,,,0,,,37m
+2021-12-20 23:44:16,Back,Lat Pulldown - Wide Grip (Cable),2,105,lbs,9,,,,0,,,37m
+2021-12-20 23:44:16,Back,Lat Pulldown - Wide Grip (Cable),3,90,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Lat Pulldown - Wide Grip (Cable),4,90,lbs,7,,,,0,,,37m
+2021-12-20 23:44:16,Back,Lat Pulldown - Underhand (Cable),1,75,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Lat Pulldown - Underhand (Cable),2,90,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Lat Pulldown - Underhand (Cable),3,90,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Lat Pulldown - Underhand (Cable),4,75,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Bent Over One Arm Row (Dumbbell),1,25,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Bent Over One Arm Row (Dumbbell),2,20,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Bent Over One Arm Row (Dumbbell),3,32.5,lbs,10,,,,0,,,37m
+2021-12-20 23:44:16,Back,Bent Over One Arm Row (Dumbbell),4,32.5,lbs,10,,,,0,,,37m
